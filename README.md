@@ -18,8 +18,8 @@ These courses overviewed how to import, clean, manipulate, and visualize data—
 - [20230517 Importing Cleaning Data with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230517_Importing_Cleaning_Data_with_Python-SOA.pdf)
 - [20230524 Data Manipulation with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230524_Data_Manipulation_with_Python-SOA.pdf)
 - [20230606 Data Visualization with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230606_Data_Visualization_with_Python-SOA.pdf)
-- [20230613 Statistical Fundamentals with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230613_Statistical Fundamentals with Python-SOA.pdf)
-- [20230910 Time Series with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230910_Time Series with Python-SOA.pdf)
+- [20230613 Statistical Fundamentals with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230613_Statistical_Fundamentals_with_Python-SOA.pdf)
+- [20230910 Time Series with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230910_Time_Series_with_Python-SOA.pdf)
 - [20230917 Finance Fundamentals in Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230917_Finance_Fundamentals_in_Python-SOA.pdf)
 - [20230927 Applied Finance in Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230927_Applied_Finance_in_Python-SOA.pdf)
 
