@@ -1,12 +1,12 @@
 # Data Analyst
  
-# DataCamp Certificatation - Data Analyst
+# DataCamp Certification - Data Analyst
 
 This repository contains qualifications and coursework related to data analyst from DataCamp.
 
-These courses overviewed how to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. 
+These courses overviewed how to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. 
 
-## Statements of Achievment
+## Statements of Achievement
 
 - [20230126 Data Analyst with R](https://github.com/Katsuvest/Data-Analyst/blob/master/20230126_Data_Analyst_with_R-SOA.pdf)
 - [20230613 Data Analyst with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230613_Data_Analyst_with_Python-SOA.pdf)
