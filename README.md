@@ -18,9 +18,10 @@ This repository contains qualifications and coursework related to data analyst f
 | :--------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
 | [Data Manipulation with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230524_Data_Manipulation_with_Python-SOA.pdf)    | 24/05/2023 |
 | [Data Manipulation with R](https://github.com/Katsuvest/Data-Analyst/blob/master/20230208_Data_Manipulation_with_R-SOA.pdf)              | 08/02/2023 |
-| [Data Manipulation with R (new)(https://github.com/Katsuvest/Data-Analyst/blob/master/20230524_Data_Manipulation_with_R_(new)-SOA.pdf)   | 24/05/2023 |
+| [Data Manipulation with R (new)](https://github.com/Katsuvest/Data-Analyst/blob/master/20230524_Data_Manipulation_with_R_(new)-SOA.pdf)  | 24/05/2023 |
 | [Data Visualization with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230606_Data_Visualization_with_Python-SOA.pdf)  | 06/06/2023 |
 | [Data Visualization with R](https://github.com/Katsuvest/Data-Analyst/blob/master/20230208_Data_Visualization_with_R-SOA.pdf)            | 08/02/2023 |
+
 ## Courses
 
 |                                                                                                                 Course                                                                                                                  | Completed |                                             Topic                                             |   Technology   |
@@ -90,7 +91,7 @@ This repository contains qualifications and coursework related to data analyst f
 | [Analyzing Customer Churn in Tableau](https://github.com/Katsuvest/Case-Studies/blob/master/Analyzing_Customer_Churn_in_Tableau/)     |           |       |   Tableau  |
 | [Analyzing Job Market in Tableau](https://github.com/Katsuvest/Case-Studies/blob/master/Analyzing_Job_Market_in_Tableau/)             |           |       |   Tableau  |
 | [Data-Driven Decision Making in SQL](https://github.com/Katsuvest/Case-Studies/blob/master/Data-Driven_Decision_Making_in_SQL/)       |           |       |     SQL    |
-| [HR Analytics in  Power BI](https://github.com/Katsuvest/Case-Studies/blob/master/HR Analytics_in_Power_BI/)                          |           |       |  Power BI  |
+| [HR Analytics in  Power BI](https://github.com/Katsuvest/Case-Studies/blob/master/HR_Analytics_in_Power_BI/)                          |           |       |  Power BI  |
 | [When was the Goldern Age of Video Games](https://github.com/Katsuvest/Projects/blob/master/When_was_the_Goldern_Age_of_Video_Games/) |           |       |     SQL    |
 1
 ​
