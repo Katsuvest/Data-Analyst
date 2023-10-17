@@ -18,7 +18,7 @@ This repository contains qualifications and coursework related to data analyst f
 | :--------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
 | [Data Manipulation with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230524_Data_Manipulation_with_Python-SOA.pdf)    | 24/05/2023 |
 | [Data Manipulation with R](https://github.com/Katsuvest/Data-Analyst/blob/master/20230208_Data_Manipulation_with_R-SOA.pdf)              | 08/02/2023 |
-| [Data Manipulation with R (new)](https://github.com/Katsuvest/Data-Analyst/blob/master/20230524_Data_Manipulation_with_R_(new)-SOA.pdf)  | 24/05/2023 |
+| [Data Manipulation with R (new)](https://github.com/Katsuvest/Data-Analyst/blob/master/20230404_Data_Manipulation_with_R_(new)-SOA.pdf)  | 04/04/2023 |
 | [Data Visualization with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230606_Data_Visualization_with_Python-SOA.pdf)  | 06/06/2023 |
 | [Data Visualization with R](https://github.com/Katsuvest/Data-Analyst/blob/master/20230208_Data_Visualization_with_R-SOA.pdf)            | 08/02/2023 |
 
