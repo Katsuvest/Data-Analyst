@@ -1,78 +1,53 @@
-# Data Analyst
- 
+# Data-Analyst
+
+
 # DataCamp Certification - Data Analyst
 
 This repository contains qualifications and coursework related to data analyst from DataCamp.
 
-These courses overviewed how to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. 
+ 
 
 ## Statements of Achievement
 
-- [20230126 Data Analyst with R](https://github.com/Katsuvest/Data-Analyst/blob/master/20230126_Data_Analyst_with_R-SOA.pdf)
-- [20230317 Quantitative Analyst with R](https://github.com/Katsuvest/Data-Analyst/blob/master/20230317_Quantitative_Analyst_with_R-SOA.pdf)
-- [20230414 Statistician with R](https://github.com/Katsuvest/Data-Analyst/blob/master/20230414_Statistician_with_R-SOA.pdf)
-- [20230613 Data Analyst with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230613_Data_Analyst_with_Python-SOA.pdf)
+|                                                        Career Tracks                                                         | Completed  |
+| :--------------------------------------------------------------------------------------------------------------------------- | :--------: |
+| [Data Analyst with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230613_Data_Analyst_with_Python-SOA.pdf)] | 13/06/2023 |
+| [Data Analyst with R](https://github.com/Katsuvest/Data-Analyst/blob/master/20230126_Data_Analyst_with_R-SOA.pdf)]           | 26/01/2023 |
 
-
-## Skill Tracks
-- [20230517 Importing Cleaning Data with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230517_Importing_Cleaning_Data_with_Python-SOA.pdf)
-- [20230524 Data Manipulation with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230524_Data_Manipulation_with_Python-SOA.pdf)
-- [20230606 Data Visualization with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230606_Data_Visualization_with_Python-SOA.pdf)
-- [20230613 Statistical Fundamentals with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230613_Statistical_Fundamentals_with_Python-SOA.pdf)
-- [20230910 Time Series with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230910_Time_Series_with_Python-SOA.pdf)
-- [20230917 Finance Fundamentals in Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230917_Finance_Fundamentals_in_Python-SOA.pdf)
-- [20230927 Applied Finance in Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230927_Applied_Finance_in_Python-SOA.pdf)
-
-
+|                                                              Skill Tracks                                                                | Completed  |
+| :--------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
+| [Data Manipulation with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230524_Data_Manipulation_with_Python-SOA.pdf)]   | 24/05/2023 |
+| [Data Manipulation with R](https://github.com/Katsuvest/Data-Analyst/blob/master/20230208_Data_Manipulation_with_R-SOA.pdf)]             | 08/02/2023 |
+| [Data Manipulation with R (new)](https://github.com/Katsuvest/Data-Analyst/blob/master/20230524_Data_Manipulation_with_R_(new)-SOA.pdf)] | 24/05/2023 |
+| [Data Visualization with Python](https://github.com/Katsuvest/Data-Analyst/blob/master/20230606_Data_Visualization_with_Python-SOA.pdf)] | 06/06/2023 |
+| [Data Visualization with R](https://github.com/Katsuvest/Data-Analyst/blob/master/20230208_Data_Visualization_with_R-SOA.pdf)]           | 08/02/2023 |
 ## Courses
-|                                                                   Course                                                                   | Completed |           Topic           |   Technology   |
-| :----------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-----------------------: | :------------: |
-| [Analyzing Survey Data in R](https://github.com/Katsuvest/Data-Scientist/tree/master/20230128%20Data%20Scientist%20with%20R%20-%20SOA.pdf) | 12-Apr-23 |  Probability & Statistics |  R Programming |
-| [ARIMA Models in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                                | 10-Mar-23 |  Probability & Statistics |  R Programming |
-| [Bond Valuation and Anlaysis in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                 | 16-Mar-23 |      Applied Finance      |  R Programming |
-| [Credit Risk Modelling in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                       | 16-Mar-23 |      Applied Finance      |  R Programming |
-| [Data Manipulation with dply](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                      | 22-Dec-22 |     Data Manipulation     |  R Programming |
-| [Data Manipulation with pandas](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                    | 19-May-23 |     Data Manipulation     |     Python     |
-| [Experimental Design in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                         | 04-Apr-23 |  Probability & Statistics |  R Programming |
-| [Exploratory Data Analysis in Python](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                              | 14-Jun-23 |  Probability & Statistics |     Python     |
-| [Exploratory Data Analysis in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                   | 18-Jan-23 |  Probability & Statistics |  R Programming |
-| [Factor Analysis in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                             | 27-Feb-23 |  Probability & Statistics |  R Programming |
-| [Financial Trading in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                           | 17-Mar-23 |      Applied Finance      |  R Programming |
-| [Forecasting in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                                 | 14-Mar-23 |  Probability & Statistics |  R Programming |
-| [Foundations of Inference in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                    | 14-Apr-23 |  Probability & Statistics |  R Programming |
-| [Foundations of Probability in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                  | 11-Apr-23 |  Probability & Statistics |  R Programming |
-| [Fundamentals of Bayesian Data Analysis in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                      | 01-Mar-23 |  Probability & Statistics |  R Programming |
-| [Hierarchial and Mixed Effects Models in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                        | 13-Apr-23 |  Probability & Statistics |  R Programming |
-| [Hypothesis Testing in Python](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                     | 13-Jun-23 |  Probability & Statistics |     Python     |
-| [Hypothesis Testing in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                          | 25-Jan-23 |  Probability & Statistics |  R Programming |
-| [Importing and Managing Financial Data in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                       | 07-Mar-23 |      Applied Finance      |  R Programming |
-| [Intermediate Portfolio Analysis in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                             | 09-Mar-23 |      Applied Finance      |  R Programming |
-| [Intermediate Python](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                              | 09-May-23 |        Programming        |     Python     |
-| [Intermediate R for Finance](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                       | 06-Mar-23 |      Applied Finance      |  R Programming |
-| [Intermediate Regression in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                     | 23-Jan-23 |  Probability & Statistics |  R Programming |
-| [Introduction to Data Visualization with ggplot2](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                  | 26-Dec-22 |     Data Visualization    |  R Programming |
-| [Introduction to Data Visualization with Seaborn](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                  | 03-Jun-23 |     Data Visualization    |     Python     |
-| [Introduction to Portfolio Analysis in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                          | 08-Mar-23 |      Applied Finance      |  R Programming |
-| [Introduction to Python](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                           | 15-Jan-23 |        Programming        |     Python     |
-| [Introduction to R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                                | 31-May-20 |        Programming        |  R Programming |
-| [Introduction to R for Finance](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                    | 04-Mar-23 |      Applied Finance      |  R Programming |
-| [Introduction to Regression in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                  | 19-Jan-22 |  Probability & Statistics |  R Programming |
-| [Introduction to Statistics in Python](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                             | 08-Jun-23 |  Probability & Statistics |     Python     |
-| [Introduction to Statistics in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                  | 25-Dec-22 |  Probability & Statistics |  R Programming |
-| [Introduction to the Tidyverse](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                    | 22-Dec-22 |        Programming        |  R Programming |
-| [Joining Data with dply](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                           | 23-Dec-22 |     Data Manipulation     |  R Programming |
-| [Joining Data with pandas](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                         | 22-May-23 |     Data Manipulation     |     Python     |
-| [Manipulate Time Series Data with xts and zoo in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                | 06-Mar-23 |     Data Manipulation     |  R Programming |
-| [Quantitative Risk Management in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                | 17-Mar-23 |      Applied Finance      |  R Programming |
-| [Sampling in Python](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                               | 12-Jun-23 |  Probability & Statistics |     Python     |
-| [Sampling in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                                    | 24-Jan-23 |  Probability & Statistics |  R Programming |
-| [Survival Analysis in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                           | 13-Apr-23 |  Probability & Statistics |  R Programming |
-| [Time Series Analysis in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                        | 09-Mar-23 |  Probability & Statistics |  R Programming |
-| [Visualising Time Series Data in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf)                                | 15-Mar-23 |     Data Visualization    |  R Programming |
 
+|                                                                                         Course                                                                                          | Completed |                                             Topic                                             |   Technology   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------------------------------------------------------------------------------------------: | :------------: |
+| [Data Communication Concepts](https://github.com/Katsuvest/Reporting/blob/master/20230116_Data_Communication_Concepts-certificate.pdf)                                                  | 17-Jan-23 |                [Reporting](https://github.com/Katsuvest/Reporting/blob/master/)               |     Theory     |
+| [Data Manipulation with dply](https://github.com/Katsuvest/Data-Manipulation/blob/master/20221222_Data_Manipulation_with_dplyr-certificate.pdf)                                         | 22-Dec-22 |        [Data Manipulation](https://github.com/Katsuvest/Data-Manipulation/blob/master/)       |  R Programming |
+| [Data Manipulation with pandas](https://github.com/Katsuvest/Data-Manipulation/blob/master/20230519_Data_Manipulation_with_pandas_certificate.pdf)                                      | 19-May-23 |        [Data Manipulation](https://github.com/Katsuvest/Data-Manipulation/blob/master/)       |     Python     |
+| [Exploratory Data Analysis in Python](https://github.com/Katsuvest/Probability-Statistics/blob/master/20230614_Exploratory_Data_Analysis_in_Python_certificate.pdf)                     | 14-Jun-23 |  [Probability & Statistics](https://github.com/Katsuvest/Probability-Statistics/blob/master/) |     Python     |
+| [Exploratory Data Analysis in R](https://github.com/Katsuvest/Probability-Statistics/blob/master/20230118_Exploratory_data_analysis_in_R-certificate.pdf)                               | 18-Jan-23 |  [Probability & Statistics](https://github.com/Katsuvest/Probability-Statistics/blob/master/) |  R Programming |
+| [Hypothesis Testing in Python](https://github.com/Katsuvest/Probability-Statistics/blob/master/20230613_Hypothesis_Testing_in_Python_certificate.pdf)                                   | 13-Jun-23 |  [Probability & Statistics](https://github.com/Katsuvest/Probability-Statistics/blob/master/) |     Python     |
+| [Hypothesis Testing in R](https://github.com/Katsuvest/Probability-Statistics/blob/master/20230125_Hypothesis_Testing_in_R-certificate.pdf)                                             | 25-Jan-23 |  [Probability & Statistics](https://github.com/Katsuvest/Probability-Statistics/blob/master/) |  R Programming |
+| [Intermediate Python](https://github.com/Katsuvest/Programming/blob/master/20230510_Intermediate_Python_certificate.pdf)                                                                | 09-May-23 |              [Programming](https://github.com/Katsuvest/Programming/blob/master/)             |     Python     |
+| [Intermediate SQL](https://github.com/Katsuvest/Data-Manipulation/blob/master/20230407_Intermediate_SQL-certificate.pdf)                                                                | 06-Apr-23 |        [Data Manipulation](https://github.com/Katsuvest/Data-Manipulation/blob/master/)       |       SQL      |
+| [Introduction to Data Visualization with ggplot2](https://github.com/Katsuvest/Data-Visualization/blob/master/20221226_Introduction_to_Data_Visualization_with_ggplot2-certificate.pdf) | 26-Dec-22 |       [Data Visualization](https://github.com/Katsuvest/Data-Visualization/blob/master/)      |  R Programming |
+| [Introduction to Data Visualization with Seaborn](https://github.com/Katsuvest/Data-Visualization/blob/master/20230603_Introduction_to_Data_Visualization_with_Seaborn_certificate.pdf) | 03-Jun-23 |       [Data Visualization](https://github.com/Katsuvest/Data-Visualization/blob/master/)      |     Python     |
+| [Introduction to Python](https://github.com/Katsuvest/Programming/blob/master/20230115_Introduction_to_Python_certificate.pdf)                                                          | 15-Jan-23 |              [Programming](https://github.com/Katsuvest/Programming/blob/master/)             |     Python     |
+| [Introduction to R](https://github.com/Katsuvest/Programming/blob/master/20200531_Introduction_to_R-certificate.pdf)                                                                    | 31-May-20 |              [Programming](https://github.com/Katsuvest/Programming/blob/master/)             |  R Programming |
+| [Introduction to SQL](https://github.com/Katsuvest/Data-Manipulation/blob/master/20230405_Introduction_to_SQL-certificate.pdf)                                                          | 05-Apr-23 |        [Data Manipulation](https://github.com/Katsuvest/Data-Manipulation/blob/master/)       |       SQL      |
+| [Introduction to Statistics in Python](https://github.com/Katsuvest/Probability-Statistics/blob/master/20230608_Introduction_to_Statistics_in_Python_certificate.pdf)                   | 08-Jun-23 |  [Probability & Statistics](https://github.com/Katsuvest/Probability-Statistics/blob/master/) |     Python     |
+| [Introduction to Statistics in R](https://github.com/Katsuvest/Probability-Statistics/blob/master/20221225_Introduction_to_Statistics-certificate.pdf)                                  | 25-Dec-22 |  [Probability & Statistics](https://github.com/Katsuvest/Probability-Statistics/blob/master/) |  R Programming |
+| [Introduction to the Tidyverse](https://github.com/Katsuvest/Programming/blob/master/20221222_Introduction_to_the_Tidyverse-certificate.pdf)                                            | 22-Dec-22 |              [Programming](https://github.com/Katsuvest/Programming/blob/master/)             |  R Programming |
+| [Joining Data in SQL](https://github.com/Katsuvest/Data-Manipulation/blob/master/20230407_Joining_Data_in_SQL-certificate.pdf)                                                          | 07-Apr-23 |        [Data Manipulation](https://github.com/Katsuvest/Data-Manipulation/blob/master/)       |       SQL      |
+| [Joining Data with dplyr](https://github.com/Katsuvest/Data-Manipulation/blob/master/20221223_Joining_Data_with_dplyr-certificate.pdf)                                                  | 23-Dec-22 |        [Data Manipulation](https://github.com/Katsuvest/Data-Manipulation/blob/master/)       |  R Programming |
+| [Joining Data with pandas](https://github.com/Katsuvest/Data-Manipulation/blob/master/20230523_Joining_Data_with_pandas_certificate.pdf)                                                | 22-May-23 |        [Data Manipulation](https://github.com/Katsuvest/Data-Manipulation/blob/master/)       |     Python     |
+| [Sampling in Python](https://github.com/Katsuvest/Probability-Statistics/blob/master/20230612_Sampling_in_Python-_certificate.pdf)                                                      | 12-Jun-23 |  [Probability & Statistics](https://github.com/Katsuvest/Probability-Statistics/blob/master/) |     Python     |
+| [Sampling in R](https://github.com/Katsuvest/Probability-Statistics/blob/master/20230124_Sampling_in_R-certificate.pdf)                                                                 | 24-Jan-23 |  [Probability & Statistics](https://github.com/Katsuvest/Probability-Statistics/blob/master/) |  R Programming |
+| [Understanding Data Visualization](https://github.com/Katsuvest/Data-Visualization/blob/master/20230715_Understanding_Data_Visualization-certificate.pdf)                               | 15-Jul-23 |       [Data Visualization](https://github.com/Katsuvest/Data-Visualization/blob/master/)      |     Theory     |                                                                     |           |                                                                                     |     SQL    |
 
-## Case Studies and Projects
+### Case Studies and Projects
 
-|                                                           Course                                                           | Completed |     Topic     |   Technology   |
-| :------------------------------------------------------------------------------------------------------------------------- | :-------: | :-----------: | :------------: |
-| [Case Study: Analyzing City Time Series Data in R](/Data%20Scientist/20230128%20SOA%20-%20Data%20Scientist%20with%20R.pdf) | 15-Mar-23 |  Case Studies |  R Programming |
