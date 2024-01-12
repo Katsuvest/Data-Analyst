@@ -10,9 +10,9 @@ In conclusion, successfully navigating this `Data Analyst` career path has prepa
 
 ## Data Analyst Career Tracks:
 
-**[Data Analyst in SQL](https://github.com/Katsuvest/Data-Analyst/tree/master/Data_Analyst_in_SQL.pdf)           - Completed on 03-12-2023**<br>
-**[Data Analyst with Python](https://github.com/Katsuvest/Data-Analyst/tree/master/Data_Analyst_with_Python.pdf) - Completed on 13-06-2023**<br>
-**[Data Analyst with R](https://github.com/Katsuvest/Data-Analyst/tree/master/Data_Analyst_with_R.pdf)           - Completed on 26-01-2023**<br>
+**[Data Analyst in SQL](https://github.com/Katsuvest/Data-Analyst/tree/master/Data_Analyst_in_SQL.pdf)**           - Completed on 03-12-2023<br>
+**[Data Analyst with Python](https://github.com/Katsuvest/Data-Analyst/tree/master/Data_Analyst_with_Python.pdf)** - Completed on 13-06-2023<br>
+**[Data Analyst with R](https://github.com/Katsuvest/Data-Analyst/tree/master/Data_Analyst_with_R.pdf)**           - Completed on 26-01-2023<br>
 
 ## Completed Courses:
 
